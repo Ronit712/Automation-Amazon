@@ -11,7 +11,6 @@ class Homepage(Useclass):
 
     search_text = (By.XPATH, '//div[@class="nav-search-field "]/input')
     list = (By.XPATH, '//div[@class="a-section a-spacing-small a-spacing-top-small"]/div/h2/a')
-    # click_item = (By.XPATH, '//div[@cel_widget_id="MAIN-SEARCH_RESULTS-4"]')
     button_buy = (By.XPATH, '//input[@id = "buy-now-button"]')
 
     def search_is_present(self):
