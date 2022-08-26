@@ -1,4 +1,6 @@
 import pytest
+from selenium.common import NoSuchElementException
+from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
@@ -52,3 +54,23 @@ class Useclass:
             Method used handle child window tab
         """
         return self.driver.switch_to.window(self.driver.window_handles[1])
+
+    def search_is_present(self, path):
+        """
+            Method used to return search path enable or not
+        """
+        try:
+            self.driver.find_element(By.XPATH, path)
+        except NoSuchElementException:
+            return False
+        return True
+
+    def list_is_present(self, path):
+        """
+            Method used to return product list present or not
+        """
+        list_present = False
+        product_list = self.driver.find_elements(By.XPATH, path)
+        if len(product_list) >= 1:
+            list_present = True
+        return list_present
