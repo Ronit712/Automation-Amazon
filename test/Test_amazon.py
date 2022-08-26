@@ -32,7 +32,7 @@ class Test(Baseclass):
         for product in products:
             log.info("List of products are" + product.text)
             i = i + 1
-            if i == 4:
+            if i == 5:
                 product.click()
         log.info("Select fourth product successfully")
         home.scroll_down()
