@@ -1,0 +1,143 @@
+2022-08-25 11:59:09,587 :INFO : test_amazon :Title isOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-25 11:59:27,026 :INFO : test_amazon :searching completed successfully
+2022-08-25 11:59:27,068 :INFO : test_amazon :Total no of products getting 22
+2022-08-25 11:59:27,084 :INFO : test_amazon :List of products areSamsung Galaxy Z Flip4 5G (Bora Purple, 8GB RAM, 128GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Black)
+2022-08-25 11:59:27,100 :INFO : test_amazon :List of products areSamsung Galaxy Z Fold4 5G (Graygreen, 12GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth (46mm, Black)
+2022-08-25 11:59:27,110 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Blue
+2022-08-25 11:59:27,131 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Starlight
+2022-08-25 11:59:27,275 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Midnight
+2022-08-25 11:59:27,283 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Pink
+2022-08-25 11:59:27,299 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - (Product) RED
+2022-08-25 11:59:27,315 :INFO : test_amazon :List of products areApple iPhone 13 (256 GB) - Green
+2022-08-25 11:59:27,323 :INFO : test_amazon :List of products areApple iPhone 13 (512 GB) - Green
+2022-08-25 11:59:27,339 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Pink
+2022-08-25 11:59:27,365 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Midnight
+2022-08-25 11:59:27,382 :INFO : test_amazon :List of products areXiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-25 11:59:27,398 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - (Product) RED
+2022-08-25 11:59:27,414 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Starlight
+2022-08-25 11:59:27,430 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Blue
+2022-08-25 11:59:27,446 :INFO : test_amazon :List of products areApple iPhone 13 Mini (128GB) - Midnight
+2022-08-25 11:59:27,462 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Starlight
+2022-08-25 11:59:27,478 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Pink
+2022-08-25 11:59:27,494 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Midnight
+2022-08-25 11:59:27,502 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Blue
+2022-08-25 11:59:27,518 :INFO : test_amazon :List of products areSamsung Galaxy M53 5G (Mystique Green, 6GB, 128GB Storage) | 108MP | sAmoled+ 120Hz | 12GB RAM with RAM Plus | Travel Adapter to be Purchased Separately
+2022-08-25 11:59:27,542 :INFO : test_amazon :List of products areSamsung Galaxy M33 5G (Deep Ocean Blue, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus | Travel Adapter to be Purchased Separately
+2022-08-25 11:59:27,542 :INFO : test_amazon :Select fourth product successfully
+2022-08-25 11:59:34,261 :INFO : test_amazon :Successfully Buy now the product 
+2022-08-25 11:59:35,679 :INFO : test_amazon :send username
+2022-08-25 11:59:35,900 :INFO : test_amazon :send password
+2022-08-25 11:59:38,436 :INFO : test_amazon :alert text is To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:59:38,436 :INFO : test_amazon :verify the text successfully 
+2022-08-25 12:30:21,647 :INFO : test_amazon :Title isOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-25 12:30:23,240 :INFO : test_amazon :searching completed successfully
+2022-08-25 12:30:23,312 :INFO : test_amazon :Total no of products getting 21
+2022-08-25 12:30:23,328 :INFO : test_amazon :List of products areSamsung Galaxy Z Flip4 5G (Bora Purple, 8GB RAM, 128GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Black)
+2022-08-25 12:30:23,352 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Starlight
+2022-08-25 12:30:23,360 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Blue
+2022-08-25 12:30:23,376 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Starlight
+2022-08-25 12:30:23,501 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Midnight
+2022-08-25 12:30:23,518 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Pink
+2022-08-25 12:30:23,533 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - (Product) RED
+2022-08-25 12:30:23,557 :INFO : test_amazon :List of products areApple iPhone 13 (256 GB) - Green
+2022-08-25 12:30:23,573 :INFO : test_amazon :List of products areApple iPhone 13 (512 GB) - Green
+2022-08-25 12:30:23,581 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Pink
+2022-08-25 12:30:23,597 :INFO : test_amazon :List of products areXiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-25 12:30:23,613 :INFO : test_amazon :List of products areSamsung Galaxy M53 5G (Mystique Green, 6GB, 128GB Storage) | 108MP | sAmoled+ 120Hz | 12GB RAM with RAM Plus | Travel Adapter to be Purchased Separately
+2022-08-25 12:30:23,621 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - (Product) RED
+2022-08-25 12:30:23,637 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Starlight
+2022-08-25 12:30:23,645 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Blue
+2022-08-25 12:30:23,661 :INFO : test_amazon :List of products areApple iPhone 13 Mini (128GB) - Midnight
+2022-08-25 12:30:23,677 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Starlight
+2022-08-25 12:30:23,685 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Midnight
+2022-08-25 12:30:23,693 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Pink
+2022-08-25 12:30:23,701 :INFO : test_amazon :List of products areApple iPhone 13 Mini (128GB) - (Product) RED
+2022-08-25 12:30:23,710 :INFO : test_amazon :List of products areSamsung Galaxy M33 5G (Emerald Brown, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus | Travel Adapter to be Purchased Separately
+2022-08-25 12:30:23,710 :INFO : test_amazon :Select fourth product successfully
+2022-08-25 12:30:29,603 :INFO : test_amazon :Successfully Buy now the product 
+2022-08-25 12:30:30,914 :INFO : test_amazon :send username
+2022-08-25 12:30:31,098 :INFO : test_amazon :send password
+2022-08-25 12:30:33,305 :INFO : test_amazon :alert text is To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:30:33,305 :INFO : test_amazon :verify the text successfully 
+2022-08-26 14:29:17,047 :INFO : test_amazon :Title isOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-26 14:29:18,614 :INFO : test_amazon :searching completed successfully
+2022-08-26 14:29:18,679 :INFO : test_amazon :Total no of products getting 16
+2022-08-26 14:29:18,691 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Blue
+2022-08-26 14:29:18,702 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Pink
+2022-08-26 14:29:18,726 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Starlight
+2022-08-26 14:29:18,743 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Midnight
+2022-08-26 14:29:18,871 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - (Product) RED
+2022-08-26 14:29:18,883 :INFO : test_amazon :List of products areApple iPhone 13 (256 GB) - Green
+2022-08-26 14:29:18,897 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Pink
+2022-08-26 14:29:18,918 :INFO : test_amazon :List of products areApple iPhone 13 (512 GB) - Green
+2022-08-26 14:29:18,936 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - (Product) RED
+2022-08-26 14:29:18,954 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Starlight
+2022-08-26 14:29:18,967 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Blue
+2022-08-26 14:29:18,979 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Pink
+2022-08-26 14:29:18,994 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Starlight
+2022-08-26 14:29:19,008 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Midnight
+2022-08-26 14:29:19,024 :INFO : test_amazon :List of products areApple iPhone 13 Mini (128GB) - Pink
+2022-08-26 14:29:19,040 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Blue
+2022-08-26 14:29:19,041 :INFO : test_amazon :Select fourth product successfully
+2022-08-26 14:29:24,944 :INFO : test_amazon :Successfully Buy now the product 
+2022-08-26 14:29:26,193 :INFO : test_amazon :send username
+2022-08-26 14:29:26,360 :INFO : test_amazon :send password
+2022-08-26 14:29:28,739 :INFO : test_amazon :alert text is To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 14:29:28,739 :INFO : test_amazon :verify the text successfully 
+2022-08-26 14:40:04,770 :INFO : test_amazon :Title isOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-26 14:40:06,920 :INFO : test_amazon :searching completed successfully
+2022-08-26 14:40:07,001 :INFO : test_amazon :Total no of products getting 21
+2022-08-26 14:40:07,024 :INFO : test_amazon :List of products areSamsung Galaxy Z Fold4 5G (Phantom Black, 12GB RAM, 512GB Storage) + Galaxy Watch4 Classic Bluetooth (46mm, Black)
+2022-08-26 14:40:07,046 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Starlight
+2022-08-26 14:40:07,062 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Blue
+2022-08-26 14:40:07,081 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Pink
+2022-08-26 14:40:07,256 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Starlight
+2022-08-26 14:40:07,267 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Midnight
+2022-08-26 14:40:07,278 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - (Product) RED
+2022-08-26 14:40:07,288 :INFO : test_amazon :List of products areApple iPhone 13 (256 GB) - Green
+2022-08-26 14:40:07,300 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Pink
+2022-08-26 14:40:07,309 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - (Product) RED
+2022-08-26 14:40:07,324 :INFO : test_amazon :List of products areSamsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-26 14:40:07,335 :INFO : test_amazon :List of products areXiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-26 14:40:07,345 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Starlight
+2022-08-26 14:40:07,359 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Pink
+2022-08-26 14:40:07,371 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Midnight
+2022-08-26 14:40:07,385 :INFO : test_amazon :List of products areApple iPhone 13 Mini (128GB) - Pink
+2022-08-26 14:40:07,394 :INFO : test_amazon :List of products areApple iPhone 13 Mini (128GB) - (Product) RED
+2022-08-26 14:40:07,408 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256 GB) - Green
+2022-08-26 14:40:07,421 :INFO : test_amazon :List of products areApple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-26 14:40:07,434 :INFO : test_amazon :List of products areSamsung Galaxy M52 5G (ICY Blue, 6GB RAM, 128GB Storage) Latest Snapdragon 778G 5G | sAMOLED 120Hz Display
+2022-08-26 14:40:07,450 :INFO : test_amazon :List of products areSamsung Galaxy M33 5G (Mystique Green, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus | Travel Adapter to be Purchased Separately
+2022-08-26 14:40:07,451 :INFO : test_amazon :Select fourth product successfully
+2022-08-26 14:40:13,952 :INFO : test_amazon :Successfully Buy now the product 
+2022-08-26 14:40:15,193 :INFO : test_amazon :send username
+2022-08-26 14:40:15,440 :INFO : test_amazon :send password
+2022-08-26 14:40:33,141 :INFO : test_amazon :alert text is To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 14:40:33,141 :INFO : test_amazon :verify the text successfully 
+2022-08-26 16:16:09,715 :INFO : test_amazon :Title isOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-26 16:16:11,305 :INFO : test_amazon :searching completed successfully
+2022-08-26 16:16:11,373 :INFO : test_amazon :Total no of products getting 18
+2022-08-26 16:16:11,386 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Starlight
+2022-08-26 16:16:11,410 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Blue
+2022-08-26 16:16:11,427 :INFO : test_amazon :List of products areY 0 1 Smart Phone
+2022-08-26 16:16:11,442 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Pink
+2022-08-26 16:16:11,569 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Starlight
+2022-08-26 16:16:11,588 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Midnight
+2022-08-26 16:16:11,617 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - (Product) RED
+2022-08-26 16:16:11,628 :INFO : test_amazon :List of products areApple iPhone 13 (256 GB) - Green
+2022-08-26 16:16:11,638 :INFO : test_amazon :List of products areApple iPhone 13 (512 GB) - Green
+2022-08-26 16:16:11,651 :INFO : test_amazon :List of products areXiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-26 16:16:11,664 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Pink
+2022-08-26 16:16:11,679 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - (Product) RED
+2022-08-26 16:16:11,696 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Starlight
+2022-08-26 16:16:11,712 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Blue
+2022-08-26 16:16:11,728 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Starlight
+2022-08-26 16:16:11,739 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Midnight
+2022-08-26 16:16:11,753 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Pink
+2022-08-26 16:16:11,765 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Blue
+2022-08-26 16:16:11,766 :INFO : test_amazon :Select fourth product successfully
+2022-08-26 16:16:17,706 :INFO : test_amazon :Successfully Buy now the product 
+2022-08-26 16:16:18,950 :INFO : test_amazon :send username
+2022-08-26 16:16:19,180 :INFO : test_amazon :send password
+2022-08-26 16:16:21,504 :INFO : test_amazon :alert text is To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 16:16:21,504 :INFO : test_amazon :verify the text successfully 

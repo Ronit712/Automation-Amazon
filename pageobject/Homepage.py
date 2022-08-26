@@ -1,3 +1,4 @@
+from selenium.common import NoSuchElementException
 from selenium.webdriver import Keys
 from selenium.webdriver.common.by import By
 
@@ -13,19 +14,22 @@ class Homepage(Useclass):
     list = (By.XPATH, '//div[@class="a-section a-spacing-small a-spacing-top-small"]/div/h2/a')
     button_buy = (By.XPATH, '//input[@id = "buy-now-button"]')
 
-    def search_is_present(self):
-        search_present = False
-        search = bool(Homepage.search_text)
-        if search:
-            search_present = True
-        return search_present
+    def search_is_present(self, path):
+        """
+            Method used to return search path enable or not
+        """
+        try:
+            self.driver.find_element(By.XPATH, path)
+        except NoSuchElementException:
+            return False
+        return True
 
     def send_search_text(self, params):
         """
             Method used to search text
         """
 
-        if self.search_is_present():
+        if self.search_is_present(Homepage.search_text[1]):
             self.driver.find_element(*Homepage.search_text).send_keys(params['product'])
             self.driver.find_element(*Homepage.search_text).send_keys(Keys.ENTER)
 
@@ -33,6 +37,9 @@ class Homepage(Useclass):
             self.log.info(f"{Homepage.search_text} is not present to locate")
 
     def list_is_present(self):
+        """
+            Method used to return product list present or not
+        """
         list_present = False
         product_list = self.driver.find_elements(*Homepage.list)
         if len(product_list) >= 1:
