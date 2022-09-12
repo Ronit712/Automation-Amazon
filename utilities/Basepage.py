@@ -55,22 +55,22 @@ class Useclass:
         """
         return self.driver.switch_to.window(self.driver.window_handles[1])
 
-    def search_is_present(self, path):
+    def search_is_present(self, identifier, path):
         """
             Method used to return search path enable or not
         """
         try:
-            self.driver.find_element(By.XPATH, path)
+            self.driver.find_element(identifier, path)
         except NoSuchElementException:
             return False
         return True
 
-    def list_is_present(self, path):
+    def list_is_present(self, identifier, path):
         """
             Method used to return product list present or not
         """
         list_present = False
-        product_list = self.driver.find_elements(By.XPATH, path)
+        product_list = self.driver.find_elements(identifier, path)
         if len(product_list) >= 1:
             list_present = True
         return list_present
