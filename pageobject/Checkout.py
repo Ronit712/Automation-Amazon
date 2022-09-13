@@ -1,9 +1,9 @@
 from selenium.webdriver.common.by import By
 
-from utilities.Useclass import Useclass
+from utilities.Basepage import Basepage
 
 
-class Checkout(Useclass):
+class Checkout(Basepage):
 
     def __init__(self, driver):
         self.driver = driver

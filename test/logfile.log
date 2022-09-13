@@ -280,3 +280,145 @@
 2022-08-26 19:11:49,508 :INFO : test_amazon :send password
 2022-08-26 19:11:51,864 :INFO : test_amazon :alert text is To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
 2022-08-26 19:11:51,866 :INFO : test_amazon :verify the text successfully 
+2022-08-30 21:59:10,592 :INFO : test_amazon :Title isOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-30 21:59:12,324 :INFO : test_amazon :searching completed successfully
+2022-08-30 21:59:12,404 :INFO : test_amazon :Total no of products getting 18
+2022-08-30 21:59:12,412 :INFO : test_amazon :List of products areSamsung Galaxy Z Fold4 5G (Phantom Black, 12GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth (46mm, Black)
+2022-08-30 21:59:12,436 :INFO : test_amazon :List of products areSamsung Galaxy Z Flip4 5G (Bora Purple, 8GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-30 21:59:12,452 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Blue
+2022-08-30 21:59:12,468 :INFO : test_amazon :List of products areApple iPhone 13 (256 GB) - Green
+2022-08-30 21:59:12,492 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Pink
+2022-08-30 21:59:12,644 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Starlight
+2022-08-30 21:59:12,652 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Midnight
+2022-08-30 21:59:12,668 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - (Product) RED
+2022-08-30 21:59:12,684 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - (Product) RED
+2022-08-30 21:59:12,708 :INFO : test_amazon :List of products areApple iPhone 13 (512 GB) - Green
+2022-08-30 21:59:12,716 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Pink
+2022-08-30 21:59:12,732 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Starlight
+2022-08-30 21:59:12,740 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Blue
+2022-08-30 21:59:12,756 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Midnight
+2022-08-30 21:59:12,772 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Starlight
+2022-08-30 21:59:12,780 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-30 21:59:12,796 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Blue
+2022-08-30 21:59:12,812 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Pink
+2022-08-30 21:59:12,812 :INFO : test_amazon :Select fourth product successfully
+2022-08-30 21:59:19,045 :INFO : test_amazon :Successfully Buy now the product 
+2022-08-30 21:59:20,607 :INFO : test_amazon :send username
+2022-08-30 21:59:20,806 :INFO : test_amazon :send password
+2022-08-30 21:59:23,073 :INFO : test_amazon :alert text is To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-30 21:59:23,073 :INFO : test_amazon :verify the text successfully 
+2022-08-30 22:08:18,361 :INFO : test_amazon :Title isOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-30 22:08:20,085 :INFO : test_amazon :searching completed successfully
+2022-08-30 22:09:26,974 :INFO : test_amazon :Title isOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-30 22:09:28,861 :INFO : test_amazon :searching completed successfully
+2022-08-30 22:10:11,134 :INFO : test_amazon :Title isOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-30 22:10:12,702 :INFO : test_amazon :searching completed successfully
+2022-08-30 22:10:12,784 :INFO : test_amazon :Total no of products getting 18
+2022-08-30 22:10:12,794 :INFO : test_amazon :List of products areSamsung Galaxy Z Fold4 5G (Phantom Black, 12GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth (46mm, Black)
+2022-08-30 22:10:12,824 :INFO : test_amazon :List of products areSamsung Galaxy Z Flip4 5G (Bora Purple, 8GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-30 22:10:12,834 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Blue
+2022-08-30 22:10:12,856 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Pink
+2022-08-30 22:10:12,870 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Midnight
+2022-08-30 22:10:13,032 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Starlight
+2022-08-30 22:10:13,048 :INFO : test_amazon :List of products areApple iPhone 13 (256 GB) - Green
+2022-08-30 22:10:13,064 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - (Product) RED
+2022-08-30 22:10:13,073 :INFO : test_amazon :List of products areApple iPhone 13 (512 GB) - Green
+2022-08-30 22:10:13,089 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Pink
+2022-08-30 22:10:13,105 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Starlight
+2022-08-30 22:10:13,114 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Blue
+2022-08-30 22:10:13,134 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Starlight
+2022-08-30 22:10:13,143 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-30 22:10:13,161 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Blue
+2022-08-30 22:10:13,174 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Pink
+2022-08-30 22:10:13,194 :INFO : test_amazon :List of products areSamsung Galaxy M52 5G (ICY Blue, 6GB RAM, 128GB Storage) Latest Snapdragon 778G 5G | sAMOLED 120Hz Display
+2022-08-30 22:10:13,204 :INFO : test_amazon :List of products areNillkin Case for Nothing Phone 1 (6.55" Inch) Super Frosted Hard Back Dotted Grip Cover PC White Color
+2022-08-30 22:10:13,204 :INFO : test_amazon :Select fourth product successfully
+2022-08-30 22:10:19,974 :INFO : test_amazon :Successfully Buy now the product 
+2022-08-30 22:10:21,269 :INFO : test_amazon :send username
+2022-08-30 22:10:21,414 :INFO : test_amazon :send password
+2022-08-30 22:10:23,974 :INFO : test_amazon :alert text is To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-30 22:10:23,974 :INFO : test_amazon :verify the text successfully 
+2022-08-31 09:54:50,362 :INFO : test_amazon :Title isOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-31 09:54:51,860 :INFO : test_amazon :searching completed successfully
+2022-08-31 09:55:55,774 :INFO : test_amazon :Title isOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-08-31 09:55:57,157 :INFO : test_amazon :searching completed successfully
+2022-08-31 09:55:57,243 :INFO : test_amazon :Total no of products getting 19
+2022-08-31 09:55:57,269 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Midnight
+2022-08-31 09:55:57,283 :INFO : test_amazon :List of products areSamsung Galaxy Z Flip4 5G (Bora Purple, 8GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-31 09:55:57,297 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Blue
+2022-08-31 09:55:57,310 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Midnight
+2022-08-31 09:55:57,325 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Starlight
+2022-08-31 09:55:57,441 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - Pink
+2022-08-31 09:55:57,453 :INFO : test_amazon :List of products areApple iPhone 13 (256 GB) - Green
+2022-08-31 09:55:57,469 :INFO : test_amazon :List of products areApple iPhone 13 (256GB) - (Product) RED
+2022-08-31 09:55:57,483 :INFO : test_amazon :List of products areApple iPhone 13 (512 GB) - Green
+2022-08-31 09:55:57,499 :INFO : test_amazon :List of products areApple iPhone 13 Mini (128GB) - Starlight
+2022-08-31 09:55:57,518 :INFO : test_amazon :List of products areSamsung Galaxy M32 (Black, 6GB RAM, 128GB | FHD+ sAMOLED 90Hz Display | 6000mAh Battery | 64MP Quad Camera
+2022-08-31 09:55:57,535 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - (Product) RED
+2022-08-31 09:55:57,550 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Starlight
+2022-08-31 09:55:57,564 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Blue
+2022-08-31 09:55:57,575 :INFO : test_amazon :List of products areApple iPhone 13 (512GB) - Pink
+2022-08-31 09:55:57,591 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Starlight
+2022-08-31 09:55:57,613 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Midnight
+2022-08-31 09:55:57,627 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Pink
+2022-08-31 09:55:57,641 :INFO : test_amazon :List of products areApple iPhone 13 Mini (512GB) - Pink
+2022-08-31 09:55:57,641 :INFO : test_amazon :Select fourth product successfully
+2022-08-31 09:56:03,267 :INFO : test_amazon :Successfully Buy now the product 
+2022-08-31 09:56:04,520 :INFO : test_amazon :send username
+2022-08-31 09:56:04,703 :INFO : test_amazon :send password
+2022-08-31 09:56:06,823 :INFO : test_amazon :alert text is To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-31 09:56:06,823 :INFO : test_amazon :verify the text successfully 
+2022-09-09 15:35:37,652 :INFO : test_amazon :Title isOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-09-09 15:35:39,387 :INFO : test_amazon :searching completed successfully
+2022-09-09 15:35:39,440 :INFO : test_amazon :Total no of products getting 18
+2022-09-09 15:35:39,452 :INFO : test_amazon :List of products areApple iPhone 13 (128GB) - Blue
+2022-09-09 15:35:39,462 :INFO : test_amazon :List of products areApple iPhone 13 (128GB) - Green
+2022-09-09 15:35:39,472 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Blue
+2022-09-09 15:35:39,481 :INFO : test_amazon :List of products areApple iPhone 13 Pro (256 GB) - Alpine Green
+2022-09-09 15:35:39,503 :INFO : test_amazon :List of products areSamsung Galaxy M52 5G (ICY Blue, 6GB RAM, 128GB Storage) Latest Snapdragon 778G 5G | sAMOLED 120Hz Display
+2022-09-09 15:35:39,612 :INFO : test_amazon :List of products areSamsung Galaxy Z Flip4 5G (Pink Gold, 8GB RAM, 128GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Black)
+2022-09-09 15:35:39,623 :INFO : test_amazon :List of products areApple iPhone 12 (128GB) - Blue
+2022-09-09 15:35:39,633 :INFO : test_amazon :List of products areApple iPhone 13 Pro Max (128GB) - Sierra Blue
+2022-09-09 15:35:39,646 :INFO : test_amazon :List of products areTecno Spark 8T (Atlantic Blue,7GB Expandable RAM, 64GB Storage)| 50MP AI Camera | 6.6"(16.764cm) FHD+Display | 5000mAh
+2022-09-09 15:35:39,656 :INFO : test_amazon :List of products areSamsung Galaxy Z Flip4 5G (Pink Gold, 8GB RAM, 128GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Black)
+2022-09-09 15:35:39,665 :INFO : test_amazon :List of products areSamsung Galaxy Z Fold4 5G (Phantom Black, 12GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth (46mm, Black)
+2022-09-09 15:35:39,674 :INFO : test_amazon :List of products areOPPO A74 5G (Fluid Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers
+2022-09-09 15:35:39,684 :INFO : test_amazon :List of products areSamsung Galaxy M32 (Light Blue, 6GB RAM, 128GB Storage)
+2022-09-09 15:35:39,694 :INFO : test_amazon :List of products areOnePlus 10R 5G (Forest Green, 8GB RAM, 128GB Storage, 80W SuperVOOC)
+2022-09-09 15:35:39,706 :INFO : test_amazon :List of products areApple iPhone 12 Mini (128GB) - Black
+2022-09-09 15:35:39,717 :INFO : test_amazon :List of products areKechaoda K116, Dual Sim (Fusion Gold)
+2022-09-09 15:35:39,733 :INFO : test_amazon :List of products areMi 11X 5G (Cosmic Black 6GB RAM 128GB ROM) | SD 870 | DisplayMate A+ rated E4 AMOLED | Upto 18 Months No Cost EMI | Extra offers on Exchange
+2022-09-09 15:35:39,746 :INFO : test_amazon :List of products areSamsung Galaxy S20 FE 5G (Cloud Navy, 8GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers
+2022-09-09 15:35:39,746 :INFO : test_amazon :Select fourth product successfully
+2022-09-09 15:35:49,780 :INFO : test_amazon :Successfully Buy now the product 
+2022-09-09 15:35:50,876 :INFO : test_amazon :send username
+2022-09-09 15:35:50,981 :INFO : test_amazon :send password
+2022-09-09 15:35:52,670 :INFO : test_amazon :alert text is To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-09-09 15:35:52,671 :INFO : test_amazon :verify the text successfully 
+2022-09-09 15:36:26,593 :INFO : test_amazon :Title isOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-09-09 15:36:28,201 :INFO : test_amazon :searching completed successfully
+2022-09-09 15:36:28,242 :INFO : test_amazon :Total no of products getting 18
+2022-09-09 15:36:28,253 :INFO : test_amazon :List of products areApple iPhone 13 (128GB) - Blue
+2022-09-09 15:36:28,261 :INFO : test_amazon :List of products areApple iPhone 13 (128GB) - Green
+2022-09-09 15:36:28,272 :INFO : test_amazon :List of products areApple iPhone 13 Mini (256GB) - Blue
+2022-09-09 15:36:28,285 :INFO : test_amazon :List of products areSamsung Galaxy M52 5G (ICY Blue, 6GB RAM, 128GB Storage) Latest Snapdragon 778G 5G | sAMOLED 120Hz Display
+2022-09-09 15:36:28,296 :INFO : test_amazon :List of products areApple iPhone 13 Pro (128GB) - Sierra Blue
+2022-09-09 15:36:28,397 :INFO : test_amazon :List of products areNew Apple iPhone 12 Pro Max (256GB) - Gold with Apple AirPods Pro
+2022-09-09 15:36:28,406 :INFO : test_amazon :List of products areApple iPhone 12 (128GB) - Blue
+2022-09-09 15:36:28,416 :INFO : test_amazon :List of products areTecno Spark 8T (Atlantic Blue,7GB Expandable RAM, 64GB Storage)| 50MP AI Camera | 6.6"(16.764cm) FHD+Display | 5000mAh
+2022-09-09 15:36:28,426 :INFO : test_amazon :List of products areSamsung Galaxy Z Fold4 5G (Phantom Black, 12GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth (46mm, Black)
+2022-09-09 15:36:28,438 :INFO : test_amazon :List of products areSamsung Galaxy Z Flip4 5G (Pink Gold, 8GB RAM, 128GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Black)
+2022-09-09 15:36:28,446 :INFO : test_amazon :List of products areApple iPhone 13 Pro Max (128GB) - Gold
+2022-09-09 15:36:28,456 :INFO : test_amazon :List of products areI KALL K450 Smartphone (6.26 Inch, 4GB, 32GB) (Dark Blue)
+2022-09-09 15:36:28,468 :INFO : test_amazon :List of products areOPPO A74 5G (Fluid Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers
+2022-09-09 15:36:28,477 :INFO : test_amazon :List of products areNillkin Case for Apple iPhone 13 Pro Max (6.7" Inch) Super Frosted Shield Pro Hard Back Soft Border (PC + TPU) Shock Absorb Cover Raised Bezel Camera Protect PC with Logo Cut Black
+2022-09-09 15:36:28,488 :INFO : test_amazon :List of products areSamsung Galaxy Z Flip4 5G (Bora Purple, 8GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Black)
+2022-09-09 15:36:28,497 :INFO : test_amazon :List of products areiQOO 7 5G (Storm Black, 12GB RAM, 256GB Storage) | 3GB Extended RAM | Upto 12 Months No Cost EMI | 6 Months Free Screen Replacement
+2022-09-09 15:36:28,510 :INFO : test_amazon :List of products areOnePlus 10R 5G (Forest Green, 8GB RAM, 128GB Storage, 80W SuperVOOC)
+2022-09-09 15:36:28,519 :INFO : test_amazon :List of products areKechaoda K116, Dual Sim (Fusion Gold)
+2022-09-09 15:36:28,519 :INFO : test_amazon :Select fourth product successfully
+2022-09-09 15:36:34,401 :INFO : test_amazon :Successfully Buy now the product 
+2022-09-09 15:36:35,627 :INFO : test_amazon :send username
+2022-09-09 15:36:35,740 :INFO : test_amazon :send password
+2022-09-09 15:36:38,164 :INFO : test_amazon :alert text is To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-09-09 15:36:38,164 :INFO : test_amazon :verify the text successfully 

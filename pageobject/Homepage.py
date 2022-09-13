@@ -1,11 +1,10 @@
-from selenium.common import NoSuchElementException
 from selenium.webdriver import Keys
 from selenium.webdriver.common.by import By
 from utilities.Baseclass import Baseclass
-from utilities.Useclass import Useclass
+from utilities.Basepage import Basepage
 
 
-class Homepage(Baseclass, Useclass):
+class Homepage(Baseclass, Basepage):
 
     def __init__(self, driver):
         self.driver = driver
@@ -19,7 +18,7 @@ class Homepage(Baseclass, Useclass):
             Method used to search text
         """
 
-        if self.search_is_present(Homepage.search_text[1]):
+        if self.search_is_present(*Homepage.search_text):
             self.driver.find_element(*Homepage.search_text).send_keys(params['product'])
             self.driver.find_element(*Homepage.search_text).send_keys(Keys.ENTER)
 
@@ -30,7 +29,7 @@ class Homepage(Baseclass, Useclass):
         log = self.get_logger()
         self.wait_test(Homepage.list)
 
-        if self.list_is_present(Homepage.list[1]):
+        if self.list_is_present(*Homepage.list):
             return self.driver.find_elements(*Homepage.list)
         else:
             log.info(f"The path {Homepage.list} not present")
@@ -49,5 +48,5 @@ class Homepage(Baseclass, Useclass):
             Method used the Buy now option for the selected product
         """
         self.wait_clickable(Homepage.button_buy)
-        if self.search_is_present(Homepage.button_buy[1]):
+        if self.search_is_present(*Homepage.button_buy):
             self.driver.find_element(*Homepage.button_buy).click()

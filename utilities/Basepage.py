@@ -1,12 +1,11 @@
 import pytest
 from selenium.common import NoSuchElementException
-from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
 @pytest.mark.usefixtures("setup")
-class Useclass:
+class Basepage:
 
     def wait_test(self, path):
         """
