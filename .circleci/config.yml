@@ -27,10 +27,10 @@ jobs:
     # Here we're making sure we use just use the system-wide pip. By default it uses the project root's requirements.txt.
     # Then run your tests!
     # CircleCI will report the results back to your VCS provider.
-    working_directory: ~/Automation-Amazon/src/
+    working_directory: ~/Automation-Amazon/
     steps:
       - checkout:
-          path: ~/Automation-Amazon/src/
+          path: ~/Automation-Amazon/
       - python/install-packages:
           pkg-manager: pip 
           #app-dir: ~/project  # If you're requirements.txt isn't in the root directory.
