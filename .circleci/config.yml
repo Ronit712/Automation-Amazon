@@ -36,7 +36,7 @@ jobs:
           
           
       - restore_cache:
-           key: deps1-{{ .master }}-{{ checksum "requirements.txt" }}
+           key: deps1-{{ .Branch }}-{{ checksum "requirements.txt" }}
               
               # fallback to using the latest cache if no exact match is found
               
@@ -50,7 +50,7 @@ jobs:
             pytest
             
       - save_cache:
-          key: deps1-{{ .master }}-{{ checksum "requirements.txt"}}
+          key: deps1-{{ .Branch }}-{{ checksum "requirements.txt"}}
           paths:
             - "venv"
 
